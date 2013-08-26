@@ -1,0 +1,9 @@
+"database" : {
+	"host": "localhost",
+	"user": "erp_app",
+	"password": "erp_app",
+	"database": "erp_app",
+	"name": "default",
+	"adapter": "mysql",
+	"poolmax": 10
+}
